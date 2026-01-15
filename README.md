@@ -131,6 +131,7 @@
 ---
 
 ## Структура
+```text
 docker-vps/
 ├── scripts/
 │ ├── system_check.sh
@@ -140,6 +141,7 @@ docker-vps/
 │ ├── integrity_baseline.sh
 │ └── preflight.sh
 ├── Dockerfile
+```
 
 
 ---
